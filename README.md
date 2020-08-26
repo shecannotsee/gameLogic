@@ -1,1 +1,1 @@
-The calculation logic of a turn-based game designed by me.
+The calculation logic of a turn-based game designed by me..
