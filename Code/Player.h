@@ -2,7 +2,7 @@
 #define _PLAYER_H_
 
 class Player{
-    
-}
 
-#endif //!_PLAYER_H_
+};
+
+#endif // !_PLAYER_H_
